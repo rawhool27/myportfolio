@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rahul Raj</h1>
 <h3 align="center">Aspiring Associate Analyst | Information Security Enthusiast | Data Visualization Lover</h3>
 
-<p align="center">
+
   <p align="center">
-  <img src="[https://raw.githubusercontent.com/rawhool27/rawhool27/main/assets/coding-animate.svg](https://www.vecteezy.com/vector-art/2177944-flat-design-concept-data-analysis-visualize-with-graph-and-chart-marketing-growth-vector-illustration)" alt="Coding" width="400"/>
+  <img src="https://www.vecteezy.com/vector-art/2177944-flat-design-concept-data-analysis-visualize-with-graph-and-chart-marketing-growth-vector-illustration" alt="Coding" width="400"/>
 </p>
 
   
-</p>
+
 
 ---
 
