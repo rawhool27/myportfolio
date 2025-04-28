@@ -52,10 +52,10 @@
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="mailto:rahul.raj@example.com">
+  <a href="mailto:911rahulraj@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/rahulraj1701" target="_blank">
+  <a href="https://www.linkedin.com/in/rahul-raj%F0%9F%98%8A-7766191a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://yourportfolio.com" target="_blank">
