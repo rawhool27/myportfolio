@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul Raj</h1>
 <h3 align="center">Aspiring Associate Analyst | Information Security Enthusiast | Data Visualization Lover</h3>
 
-
-  <p align="center">
-  <img src="https://www.vecteezy.com/vector-art/2177944-flat-design-concept-data-analysis-visualize-with-graph-and-chart-marketing-growth-vector-illustration" alt="Coding" width="400"/>
+<p align="center">
+  <img src="https://www.freepik.com/premium-vector/light-bulb-with-coding-sign-gear-creative-coding-idea-3d-vector-icon-cartoon-minimal-style_255270629.htm#fromView=keyword&page=1&position=39&uuid=19a00fe6-c943-40b7-80f9-78c6821dc2b5&query=Coding+3d" width="400"/>
 </p>
 
   
