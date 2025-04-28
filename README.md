@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Associate Analyst | Information Security Enthusiast | Data Visualization Lover</h3>
 
 <p align="center">
-  <img src="https://github.com/rawhool27/myportfolio/issues/1#issue-3026109600" alt="Coding" width="400"/>
+  <img src="https://github.com/rawhool27/myportfolio/issues/1#issue-3026109600" alt="Coding" width="50"/>
 </p>
 
 
