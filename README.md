@@ -2,8 +2,9 @@
 <h3 align="center">Aspiring Associate Analyst | Information Security Enthusiast | Data Visualization Lover</h3>
 
 <p align="center">
-  <img src="[https://www.freepik.com/premium-vector/light-bulb-with-coding-sign-gear-creative-coding-idea-3d-vector-icon-cartoon-minimal-style_255270629.htm#fromView=keyword&page=1&position=39&uuid=19a00fe6-c943-40b7-80f9-78c6821dc2b5&query=Coding+3d](https://github.com/rawhool27/myportfolio/issues/1)" width="400"/>
+  <img src="https://user-images.githubusercontent.com/yourid/yourfile.svg" alt="Coding" width="400"/>
 </p>
+
 
   
 
