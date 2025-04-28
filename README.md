@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Associate Analyst | Information Security Enthusiast | Data Visualization Lover</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahulraj1701/rahulraj1701/main/assets/coding-animate.svg" alt="Coding" width="400"/>
+  <img src="https://raw.githubusercontent.com/rawhool27/myportfolio/main/assets/coding-animate.svg" alt="Coding" width="400"/>
 </p>
 
 ---
@@ -40,8 +40,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulraj1701&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulraj1701&theme=tokyonight" width="48%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rawhool27&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rawhool27&theme=tokyonight" width="48%" alt="GitHub Streak Stats" />
 </p>
 
 ---
