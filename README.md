@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Associate Analyst | Information Security Enthusiast | Data Visualization Lover</h3>
 
 <p align="center">
-  <img src="rahul raj.png" alt="Coding" width="400"/>
+  <img src="rahul raj(1).png" alt="Coding" width="400"/>
 </p>
 
 
