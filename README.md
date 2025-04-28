@@ -1,4 +1,4 @@
-<img  alt="portfolio" width="90%" src="https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif">
+<img  alt="portfolio" width="110%" src="https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif">
 <h1 align="center">Hi 👋, I'm Rahul Raj</h1>
 <h3 align="center">Aspiring Associate Analyst | Information Security Enthusiast | Data Visualization Lover</h3>
 
