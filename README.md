@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Associate Analyst | Information Security Enthusiast | Data Visualization Lover</h3>
 
 <p align="center">
-  <img src="https://imgur.com/a/iCK3iE1" alt="Coding" width="400"/>
+  <img src="https://imgur.com/a/iCK3iE1/yourimage.png" alt="Coding" width="400"/>
 </p>
 
 
